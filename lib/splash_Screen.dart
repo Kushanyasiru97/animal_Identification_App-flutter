@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
-
 import 'home.dart';
 
 class mySplash extends StatefulWidget {
@@ -21,7 +20,7 @@ class _mySplashState extends State<mySplash> {
         'Animal Classification',
         style: TextStyle(
           fontWeight: FontWeight.bold,
-          fontSize: 30.0,
+          fontSize: 20.0,
           color: Colors.lightGreenAccent,
         )
       ),
